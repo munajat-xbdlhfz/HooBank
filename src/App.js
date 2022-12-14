@@ -7,7 +7,7 @@ import {
   Footer, Testimonials, Hero,
 } from './components'
 
-const App = () => {`1`
+const App = () => {
   return (
     <div className='bg-primary w-full overflow-hidden'>
       <div className={`${styles.paddingX} ${styles.flexCenter}`}>
